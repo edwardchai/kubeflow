@@ -14,3 +14,4 @@ FROM gcr.io/ml-pipeline/visualization-server:1.8.3
 FROM gcr.io/ml-pipeline/mysql:5.7-debian
 FROM gcr.io/ml-pipeline/inverse-proxy-agent:1.8.3
 FROM gcr.io/ml-pipeline/workflow-controller:v3.3.8-license-compliance
+FROM gcr.io/ml-pipeline/argoexec:v3.3.8-license-compliance
